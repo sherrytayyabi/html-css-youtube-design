@@ -1,1 +1,1 @@
-# html-css-youtube-design
+Re-created Youtube website design using HTML and CSS. Used concepts such as; Flexbox, CSS Grid, Hovers, transitions, Shadows, Nested Layouts Techniques, Position Absolute/Relative, and basic HTML/CSS concepts. 
