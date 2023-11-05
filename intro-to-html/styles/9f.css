@@ -1,0 +1,48 @@
+p {
+    font-family: Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+
+
+.photo {
+    width: 150px;
+    padding-bottom: 10px;
+}
+
+.card {
+    width: 150px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.text1 { 
+    font-weight: bold;
+    margin-bottom: 4px;
+    margin-left: 8px;
+    font-size: 18px;
+}
+
+.text2 {
+    margin-left: 8px;
+    margin-bottom: 12px;
+    color: rgb(100, 100, 100);
+}
+
+
+.button { 
+    color: white; 
+    background-color: rgb(24, 119, 242);
+    border:none;
+    margin-left: 8px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
